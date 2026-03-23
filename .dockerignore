@@ -1,0 +1,8 @@
+  .git                                                                                                                                        
+  .gitignore                                                                                                                                  
+  README.md                                                                                                                                   
+  *.md                                                                                                                                        
+  .env.example                                                                                                                                
+  __pycache__                                                                                                                                 
+  *.pyc                                                                                                                                       
+               
